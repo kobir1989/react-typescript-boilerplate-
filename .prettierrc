@@ -1,0 +1,11 @@
+{
+  "trailingComma": "none",
+  "tabWidth": 2,
+  "semi": false,
+  "plugins": ["prettier-plugin-css-order", "prettier-plugin-tailwindcss"],
+  "tailwindAttributes": ["myClassList"],
+  "tailwindFunctions": ["clsx", "tw"],
+  "singleQuote": true,
+  "jsxSingleQuote": true,
+  "arrowParens": "avoid"
+}

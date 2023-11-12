@@ -1,0 +1,10 @@
+/* Importing Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Importing other stylesheets */
+@import './styles/custom-tailwind-class.scss';
+@import './styles/reset.scss';
+@import './styles/variables.scss';
+@import './styles/animations.scss';
